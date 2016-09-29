@@ -1,0 +1,8 @@
+body{ background-color: lightgrey}
+div{
+    font-style: black;
+    background-color: white;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 10%;
+}
